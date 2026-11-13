@@ -1,0 +1,19 @@
+{
+	"$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+	"settings": {
+		"documentationRules": {
+			"companyName": "TodoListApp",
+			"copyrightText": "Copyright (c) TodoListApp. All rights reserved."
+		},
+		"indentation": {
+			"indentationSize": 4,
+			"useTabs": false,
+			"tabSize": 4
+		},
+		"orderingRules": {
+			"systemUsingDirectivesFirst": true,
+			"usingDirectivesPlacement": "outsideNamespace",
+			"blankLinesBetweenUsingGroups": "omit"
+		}
+	}
+}

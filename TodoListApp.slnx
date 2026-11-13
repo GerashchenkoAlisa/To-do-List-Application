@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TodoListApp.WebApi/TodoListApp.WebApi.csproj" />
+  <Project Path="TodoListApp.WebApp/TodoListApp.WebApp.csproj" />
+</Solution>
